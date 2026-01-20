@@ -7,3 +7,4 @@ matplotlib
 torchvision
 opencv-python
 sklearn
+pyasn1>=0.6.2 # not directly required, pinned by Snyk to avoid a vulnerability
